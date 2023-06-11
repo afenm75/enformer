@@ -1,5 +1,5 @@
 # enformer
-# Enformer Documentation:
+# Enformer Tutorial and Documentation:
 These codes are all come from the https://github.com/deepmind/deepmind-research.git in detail the paper Effective gene expression prediction from sequence by integrating long-range interactions
 Žiga Avsec at nature method 2021.
 This page haven't added any additional codes.
