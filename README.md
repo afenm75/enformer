@@ -11,4 +11,4 @@ Here, you can see three files:
 
 **Note**. To run the first file properly, we need two additional files for which we have provided explanations in these two files.
 
-We recommend starting by reading the [Training.ipynb](Training.ipynb), then go for [Enformer.ipynb](Enformer.ipynb) and [attention_module.ipynb](attention_module.ipynb) and finally, take a look at [enformer_enhancer_Results](enformer_enhancer_Results.ipynb). Reading these files, along with the written reports, helps readers with some levele of knowledge in bioinformatics find valuable insights about Enformers.
+We recommend starting by reading the [Training.ipynb](Training.ipynb), then go for [Enformer.ipynb](Enformer.ipynb) and [attention_module.ipynb](attention_module.ipynb) and finally, take a look at [Enformer_Enhancer_Results](Enformer_Enhancer_Results.ipynb). Reading these files, along with the written reports, helps readers with some levele of knowledge in bioinformatics find valuable insights about Enformers.
