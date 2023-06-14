@@ -1,11 +1,14 @@
-# enformer
+# Enformer
 # Enformer Tutorial and Documentation:
-These codes are all come from the https://github.com/deepmind/deepmind-research.git in detail the paper Effective gene expression prediction from sequence by integrating long-range interactions
-Žiga Avsec at nature method 2021.
-This page haven't added any additional codes.
-All code written by the author GitHub page mentioned above.
-Here the codes are documented, you should see this page as a Tutorial page.
-we recommend that first read Training file then go for Enformer and attention_module and lastly take a look at enformer_enhancer_Results
-Reading these files, along with the written reports, helps readers with some levele of knowledge in bioinformatics find valuable insights about Enformers.
+All the code in this repository come from the https://github.com/deepmind/deepmind-research.git. The code pertains to _Effective gene expression prediction from sequence by integrating long-range interactions_ ([Avsec et al., 2021](https://www.nature.com/articles/s41592-021-01252-x)) published in Nature methods.
 
-Here, you can see three files. First, the "training.ipynb" file, which has been fully prepared for training, testing, and evaluation. Second, the "enformer.ipynb" file, and third, the "attention-module.ipynb" file. To run the first file properly, we need two additional files for which we have provided explanations in these two files.
+**Note**. This repository does not add any additional codes. In this repository, we document the codes. Thus, you should see this page as a Tutorial page.
+
+Here, you can see three files:
+- The [Training.ipynb](Training.ipynb) file, which has been fully prepared for training, testing, and evaluation. 
+- The [enformer.ipynb](Enformer.ipynb) file.
+- The [attention_module.ipynb](attention_module.ipynb) file. 
+
+**Note**. To run the first file properly, we need two additional files for which we have provided explanations in these two files.
+
+We recommend starting by reading the [Training.ipynb](Training .ipynb), then go for [Enformer.ipynb](Enformer.ipynb) and [attention_module.ipynb](attention_module.ipynb) and finally, take a look at [enformer_enhancer_Results](enformer_enhancer_Results.ipynb). Reading these files, along with the written reports, helps readers with some levele of knowledge in bioinformatics find valuable insights about Enformers.
