@@ -6,7 +6,7 @@ All the code in this repository come from the https://github.com/deepmind/deepmi
 
 Here, you can see three files:
 - The [Training.ipynb](Training.ipynb) file, which has been fully prepared for training, testing, and evaluation. 
-- The [enformer.ipynb](Enformer.ipynb) file.
+- The [Enformer.ipynb](Enformer.ipynb) file.
 - The [attention_module.ipynb](attention_module.ipynb) file. 
 
 **Note**. To run the first file properly, we need two additional files for which we have provided explanations in these two files.
